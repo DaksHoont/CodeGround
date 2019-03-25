@@ -1,12 +1,8 @@
-# CodeGround
-Solving algorithm problems on www.codeground.org
+# 목표
+- **코드 그라운드**를 이용해서 알고리즘 공부
+- 코드 그라운드 연습문제 전부 풀기 (https://www.codeground.org/practice). <br/>
+대회 문제도 포함 되어 있기 때문에 시간이 많이 걸릴 것 같습니다.
 
-## Purpose
-- Personal study log using **Code Ground**
-- Solving all problems on practice catogry (https://www.codeground.org/practice). <br/>
-It may take looong time because there are contest problems in the practice problem set.
-- Good luck!
+## 해결한 문제
 
-## Problem Solved
-
-## Problem under Solving
+## 해결중인 문제
