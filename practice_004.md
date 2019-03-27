@@ -1,4 +1,4 @@
-# 연습문제 \#3 시험 공부
+# 연습문제 \#4 다트 공부
 출처: https://www.codeground.org/practice
 
 ## 문제
